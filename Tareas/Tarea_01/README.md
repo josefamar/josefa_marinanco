@@ -6,7 +6,7 @@
 
 La historia se presenta con un estilo similar al de un vlog de principios de los 2000 y comienza caracterizando a un personaje al que se le hace seguimiento desde 1998 hasta 2021. Para visualizar la gran cantidad de datos, se utilizan figuras detalladas de personas, que muestran distintos colores según las categorías que se quieran clasificar.
 
-<img src="Imagenes/imagen_1.jpg" alt="Figura de Alex">
+![Image_Alt](https://github.com/josefamar/josefa_marinanco/blob/f455ba9e6605de33f599c2ce5133998fa3dba1ac/imagen_1.jpg)
 
 Estas figuras son interactivas: al hacer clic en ellas se despliega una lista con datos que describen a cada individuo, como género, etnia, ocupación en ese año específico, altura, estado de salud, e incluso detalles del hogar y del colegio al que asisten.
 
