@@ -12,7 +12,7 @@ Estas figuras son interactivas: al hacer clic en ellas se despliega una lista co
 
 La categorización base de este estudio se realiza en función de experiencias adversas y una puntuación de riesgo que reflejan las condiciones en los hogares donde crecieron estos niños. Esta puntuación va de 0 a 5 o más, donde 0 corresponde a niños que no experimentaron adversidades, mientras que 5+ indica niños que sufrieron múltiples adversidades.
 
-<img src="Imagenes/imagen_03.jpg" alt="Ejemplo de clasificación">
+![Image_Alt](https://github.com/josefamar/josefa_marinanco/blob/5f3d38819fc8a32c6e490cee36cece9c29c38c95/imagen_03.jpg)
 
 A medida que avanza la línea temporal, el proyecto profundiza en temáticas específicas como el acoso escolar, la exposición a violencia con armas de fuego, y el promedio final obtenido al terminar la educación escolar. Más adelante, se muestra el destino de esta generación tras completar su educación obligatoria, indicando si trabajan, estudian o si no realizan ninguna de estas actividades.
 
